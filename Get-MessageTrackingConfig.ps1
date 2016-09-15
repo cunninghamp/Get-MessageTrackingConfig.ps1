@@ -220,10 +220,12 @@ Write-Verbose "------ All servers completed"
 # Output the reports to CSV
 if ($Exchange2013Report)
 {
+     $Exchange2013Report | Export-Csv MessageTrackingConfig2013.csv -NoTypeInformation
 }
 
 if ($Exchange2010Report)
 {
+    #  $Exchange2010Report | Export-Csv MessageTrackingConfig2010.csv -NoTypeInformation  # 2010 Version Not supported
 }
 
 
