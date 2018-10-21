@@ -13,17 +13,11 @@ Generate a CSV report of the message tracking configuration of your Exchange 201
 .NOTES
 Written by: Paul Cunningham
 
-For more Exchange Server tips, tricks and news
-check out Exchange Server Pro.
-
-* Website:	http://exchangeserverpro.com
-* Twitter:	http://twitter.com/exchservpro
-
 Find me on:
 
-* My Blog:	http://paulcunningham.me
+* My Blog:	https://paulcunningham.me
 * Twitter:	https://twitter.com/paulcunningham
-* LinkedIn:	http://au.linkedin.com/in/cunninghamp/
+* LinkedIn:	https://au.linkedin.com/in/cunninghamp/
 * Github:	https://github.com/cunninghamp
 
 Change Log:
